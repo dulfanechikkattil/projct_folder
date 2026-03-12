@@ -13,7 +13,7 @@ The model is trained on a dataset of plant leaf images and learns visual pattern
 - Jupyter Notebook
   Dataset Description
   _ _ _
-## Dataset 
+## Dataset
 The dataset contains plant leaf images arranged in folder format:
 
 data/

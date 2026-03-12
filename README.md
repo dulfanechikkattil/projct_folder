@@ -90,7 +90,9 @@ Total Parameters: 6.5 Million
 
 ---
 # Compil and Train the deep learning model
+
 <img width="542" height="356" alt="image" src="https://github.com/user-attachments/assets/eb4e1231-81e9-4823-b2e7-3be44a8d8c5d" />
+
 ## Model Compilation
 
 ```python

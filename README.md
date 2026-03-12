@@ -58,6 +58,7 @@ Why Preprocessing?
 •	Split into training and validation data
 
 <img width="567" height="400" alt="image" src="https://github.com/user-attachments/assets/b3c1e299-18eb-4ab7-809d-0b2673c18c71" />
+------
 # 3. Build CNN architecture
 <img width="513" height="368" alt="image" src="https://github.com/user-attachments/assets/d18f41ba-9e4e-4850-a709-20156dd3a172" />
 The model consists of:
@@ -121,9 +122,10 @@ history = model.fit(
 The model is trained for 10 epochs.
 
 ---
-#5. Evaluate model performace
+# 5. Evaluate model performace
+**Accuracy**
 <img width="347" height="272" alt="image" src="https://github.com/user-attachments/assets/2ee74548-dd98-4804-bcb0-bb7b9399a63a" />
-
+**Loss**
 <img width="359" height="279" alt="image" src="https://github.com/user-attachments/assets/1b9a1935-380d-4142-964f-5524b3f02d89" />
 ## 📊 Model Performance
 
